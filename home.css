@@ -1,0 +1,74 @@
+.main_header{
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+  
+  .header_title{
+    color:#F9004D;
+    float: left;
+    font-size: 250%;
+    font-weight: 900;
+    margin-left: 20px;
+    text-decoration: underline;
+    letter-spacing: 3pt;
+  }
+  
+  .element:hover{
+    background-color:#F9004D;
+  }
+  
+  .element:visited{
+    color:#fff;
+  }
+  
+  .element{
+    color:#fff;
+    padding: 10px;
+    margin-left: 4px;
+    float:left;
+  }
+  
+  .home{
+    margin-left: 660px;
+    /* margin-top: 30px; */
+    text-transform: uppercase;
+  }
+
+  *{
+    font-family: 'Zen Loop', 'Consolas', 'Arial';
+    letter-spacing: 3px;
+    box-sizing: border-box;
+}
+body {
+    /* background-image: url("software-3682509_1920.jpg"); */
+    background-color: #1d1c30;
+    /* background-position: top; */
+   }
+
+img{
+    position:fixed;
+    width: 300px;
+    box-shadow: #ffffff;
+    border-color: #000;
+    margin-left: 850px;
+    margin-right: 0px;
+    margin-top: 218px;
+}
+
+.name1{
+    color:#fff;
+    font-size :1000%;
+    /* font-family: ; */
+    margin-top: 180px;
+    margin-left: 150px;
+    text-decoration: underline;
+}
+/* 
+.c{
+  color:#f9004d;
+} */
+
+script{
+  margin-top: 500pX;
+}

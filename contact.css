@@ -1,0 +1,11 @@
+*{
+    font-family:"consolas";
+}
+
+a[href = "Portfolio.html"]{
+    color:black;
+}
+
+li{
+    list-style:square;
+}
