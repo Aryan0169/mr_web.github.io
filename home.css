@@ -6,6 +6,8 @@
   
   .header_title{
     color:#F9004D;
+    background-color: #050306;
+    padding: 4px;
     float: left;
     font-size: 250%;
     font-weight: 900;
@@ -41,9 +43,9 @@
     box-sizing: border-box;
 }
 body {
-    /* background-image: url("software-3682509_1920.jpg"); */
+    background-image: url("webD.jpg");
     background-color: #1d1c30;
-    /* background-position: top; */
+    background-position: top;
    }
 
 img{
