@@ -44,8 +44,15 @@
 }
 body {
     background-image: url("webd.jpg");
+    /* background-position: fixed; */
     background-color: #1d1c30;
-    background-position: top;
+    /* background-position: right; */
+    /* background-clip: border-box; */
+    background-repeat: no-repeat;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
    }
 
 img{
