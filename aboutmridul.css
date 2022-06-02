@@ -2,7 +2,8 @@
   background-color: #101010;
   position: fixed;
   top: 0;
-  width: 100%
+  width: 100%;
+  z-index: 1;
 }
 
 .header_title{
@@ -51,6 +52,7 @@ img{
     margin-left: 1000px;
     margin-right: 0px;
     margin-top: 60px;
+    z-index: 0;
 }
 
 h1.Name{
